@@ -1,0 +1,9 @@
+
+name: ${project.name}
+version: ${project.version}
+main: ${main.class}
+author: signition
+api-version: 1.16
+permissions:
+  sig.op:
+    default: op
